@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/pc/vs/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\main.c.obj -c C:\\Users\\pc\\vs\\main.c",
+  "file": "C:/Users/pc/vs/main.c",
+  "output": "CMakeFiles/main.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/pc/vs/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\main.dir\\hw.c.obj -c C:\\Users\\pc\\vs\\hw.c",
+  "file": "C:/Users/pc/vs/hw.c",
+  "output": "CMakeFiles/main.dir/hw.c.obj"
+}
+]
